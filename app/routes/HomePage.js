@@ -23,15 +23,7 @@ class HomePage extends Component {
               paddingBottom: '40px',
             }}
           >
-            <span
-              style={{
-                lineHeight: '20px',
-                backgroundColor: '#b8e986',
-                color: '#4a90e2',
-              }}
-            >
-              git 을 테스트 하고 있습니다
-            </span>
+            <span>git 을 테스트 하고 있습니다</span>
           </div>
         </div>
       </div>
